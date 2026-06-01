@@ -1,0 +1,8 @@
+{
+  "name": "Remix: My Contact",
+  "description": "App Developer by Feroz Ahmed. Mobile Dual-Edition Real-Time VoIP Support Console and Database Listener Engine with Custom Logo and Hacker Style Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

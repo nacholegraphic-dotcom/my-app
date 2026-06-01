@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Outer Octagonal Cyber Frame Left-Side (Dark-purple/Indigo style base #1F103F) -->
+    <path
+        android:strokeColor="#2F1C63"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="miter"
+        android:fillColor="#0E091B"
+        android:pathData="M 60,15 L 20,55 L 20,145 L 60,185 L 140,185 L 180,145 L 180,55 L 140,15 Z" />
+
+    <!-- Highly Precise Stylized Purple Letter F (Top FF block - color #5C23A6) -->
+    <path
+        android:fillColor="#7B33E3"
+        android:pathData="M 65,35 H 155 C 168,35 178,45 175,58 C 173,68 164,74 154,74 H 90 Q 82,74 82,82 Q 82,90 90,90 H 140 C 150,90 150,105 140,105 H 90 Q 82,105 82,113 V 155 C 82,165 72,165 65,165 C 58,165 55,155 55,145 V 45 C 55,35 65,35 65,35 Z" />
+
+    <!-- Stylized Dark Navy/Indigo Outer Frame overlap & logo backing (Hex #160D2D) -->
+    <path
+        android:fillColor="#150D2B"
+        android:pathData="M 64,164 H 135 C 145,164 145,154 135,154 H 110 Q 102,154 102,146 Q 102,138 110,138 H 135 C 145,138 145,123 135,123 H 110 Q 102,123 102,115 V 74 C 102,64 112,64 120,64 H 150 C 158,64 158,52 148,52 H 105 Q 92,52 92,65 V 155 C 92,165 82,175 64,175 C 55,175 52,164 64,164 Z" />
+
+    <!-- Glowing green outline dot on the octagon node to pair with Feroz's request -->
+    <path
+        android:fillColor="#00FF66"
+        android:pathData="M 140,15 A 6,6 0 1,1 140,27 A 6,6 0 1,1 140,15 Z" />
+</vector>
